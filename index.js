@@ -1,5 +1,5 @@
 const CONFIG = {
-    InTitle: 'chòi oi tớ cũng thích cậu á ',
+    InTitle: 'chòi oi tớ cũng thích á ',
     FBLink:'https://www.facebook.com/achin62135/ ',
     ConfirmBtnText: 'Yes',
     PopTitle: 'Hi cô giáo Nhỏ',
